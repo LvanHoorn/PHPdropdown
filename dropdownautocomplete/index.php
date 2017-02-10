@@ -14,7 +14,7 @@
 </head>
 <body>
     
-    <form action="index.php" method="get" autocomplete="on">
+    <form action="index.php" method="get" autocomplete="off">
         <input type="text" name="user" id="users">
         <input type="submit" value="Go">    
     </form>
